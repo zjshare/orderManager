@@ -13,6 +13,7 @@
 <script>
 // 用@自动找到apis的根目录
 import { login } from "@/api/apis";
+
 export default {
   data() {
     //date只能return一次。
